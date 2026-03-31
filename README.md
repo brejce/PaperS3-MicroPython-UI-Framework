@@ -32,7 +32,7 @@
     │ ├── IconManager.py # 图标资源管理
     │ ├── TouchZone.py # 触摸区域检测
     │ └── ...
-    ├── test_simple.py # 功能测试入口，也是整个框架的入口
+    ├── simaple.py # 功能测试入口，也是整个框架的入口
     ├── README.md # 项目说明
     ├── LICENSE # 开源许可证
     └── .gitignore # Git 忽略文件
