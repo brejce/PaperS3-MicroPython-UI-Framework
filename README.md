@@ -52,7 +52,7 @@
 ### 2. 上传文件
     将core和components里面的内容放到flash/libs里面即可，至此框架搭建好了。
     然后将apps/simaple.py放到flash/apps里面，重启，在applist里面点击该程序即可。
-    或者将apps/simaple.py的文件内容粘贴到，[UiFlow2](https://docs.m5stack.com/zh_CN/uiflow2/uiflow_web)里面。点击运行即可。
+    或者将apps/simaple.py的文件内容粘贴到，UiFlow2里面。点击运行即可。
 
     未来可能会发布调试好的固件。
 
@@ -116,6 +116,8 @@
 [M5Stack PaperS3 官方文档](https://[PaperS3](https://docs.m5stack.com/zh_CN/core/PaperS3))
 
 [M5Burner](https://docs.m5stack.com/zh_CN/uiflow/m5burner/intro)
+
+[UiFlow2](https://docs.m5stack.com/zh_CN/uiflow2/uiflow_web)
 
 ## 最后
 
